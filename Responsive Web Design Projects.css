@@ -1,0 +1,39 @@
+/* Responsive Web Design Project */
+________________________________________
+
+** start of undefined **
+
+<head> 
+  <link rel="stylesheet" href="styles.css">
+  <title id="title">Ms. Borlaug</title>
+</head>
+<body>
+  <main id="main">
+    <h1>Ms. Norman Borlaug </h1>
+    <div id="img-div">
+      <div id="img-caption">
+      <a id="tribute-info" target="_blank">Text</a>
+      <a id="tribute-link" href="https://funik.ru/devushki/krasivye-cherno-belye-portrety-zhenshhin-50-kartinok" target="_blank">Other info</a>
+      <img id="image" src="https://funik.ru/wp-content/uploads/2021/08/92c3f169d5d01ca164b7.jpg" position="center">
+      </div>
+    </div>
+  </main> 
+</body>
+<footer>
+
+</footer>
+
+
+** end of undefined **
+
+** start of undefined **
+
+#image {
+  display: block;
+  max-width: 100%;
+}
+
+** end of undefined **
+________________________________________
+
+
